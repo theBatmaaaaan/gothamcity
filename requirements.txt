@@ -1,0 +1,15 @@
+openai==1.51.2
+anthropic==0.36.0
+google-generativeai==0.8.2
+tiktoken==0.7.0
+streamlit==1.33.0
+langchain==0.3.3
+langchain-community==0.3.2
+langchain-openai==0.2.2
+langchain-core==0.3.10
+langchain-google-genai==2.0.1
+langchain-anthropic==0.2.3
+python-dotenv==1.0.0
+python-magic==0.4.27
+google-cloud-bigquery==3.21.0
+db-dtypes==1.2.0
